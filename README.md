@@ -31,11 +31,12 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Features
 
-<div style="text-align: center; color: blue;">JATE</div>
+*JATE*
 
-![JATE](client/src/images/jate.jpg)
+![JATE](client/images/jate.jpg)
 
-![MANIFEST](client/src/images/jatemanifest.jpg)
+![MANIFEST](client/images/jatemanifest.jpg)
+
 
 ## Contact
 For any questions or inquiries, please reach out to me:
