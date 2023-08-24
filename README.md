@@ -32,14 +32,13 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Features
 
 <p align="center">
-
 JATE
-
-![JATE](client/images/jate.jpg)
-
-![MANIFEST](client/images/jatemanifest.jpg)
-
 </p>
+
+![JATE](client/src/images/jate.jpg)
+
+![MANIFEST](client/src/images/jatemanifest.jpg)
+
 
 
 ## Contact
