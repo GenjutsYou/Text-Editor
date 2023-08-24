@@ -41,12 +41,6 @@ JATE
   <img src="client/src/images/jatemanifest.jpg" />
 </p>
 
-![JATE](client/src/images/jate.jpg)
-
-![MANIFEST](client/src/images/jatemanifest.jpg)
-
-
-
 ## Contact
 For any questions or inquiries, please reach out to me:
 - Email: arunmundackal7@gmail.com
