@@ -34,6 +34,12 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 <p align="center">
 JATE
 </p>
+<p align="center">
+  <img src="client/src/images/jate.jpg" />
+</p>
+<p align="center">
+  <img src="client/src/images/jatemanifest.jpg" />
+</p>
 
 ![JATE](client/src/images/jate.jpg)
 
