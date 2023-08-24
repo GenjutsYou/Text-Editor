@@ -18,7 +18,7 @@ Create notes or code snippets with or without an internet connection
 ## Installation
 
         git clone git@github.com:GenjutsYou/Text-Editor.git
-        npm install
+
         npm start
 
 ## Credits
